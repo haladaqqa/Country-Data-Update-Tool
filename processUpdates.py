@@ -1,7 +1,3 @@
-# CS1026A: Assignment 4 "Country Classes"
-# Student Name: Hala Abudaqqa
-# Student No.: 251245967
-# Email: habudaqq@uwo.ca
 from catalogue import *
 
 
